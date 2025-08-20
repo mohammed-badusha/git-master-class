@@ -1,1 +1,11 @@
-wkkkw
+command for listing configuration detail
+   >git config --list
+
+command for adding username
+   >git config --global user.name "Badusha"
+
+command for adding user email
+   >git config --global user.email "badushamc312@gmail.com"
+
+command for initializing git repository
+   >git init   
