@@ -9,3 +9,6 @@ command for adding user email
 
 command for initializing git repository
    >git init   
+
+command for listing all untracked files
+   >git status
