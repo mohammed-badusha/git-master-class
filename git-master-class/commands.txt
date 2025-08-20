@@ -12,3 +12,5 @@ command for initializing git repository
 
 command for listing all untracked files
    >git status
+
+command for listing all   
